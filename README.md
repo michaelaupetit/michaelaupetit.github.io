@@ -1,2 +1,3 @@
-# michaelaupetit.github.io
+# Dr. Michaël Aupetit
+
 Home page
