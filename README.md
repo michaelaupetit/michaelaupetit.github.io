@@ -7,14 +7,16 @@ Senior Scientist - AI for Humans
 Qatar Center for Artificial Intelligence (https://qcai.qcri.org/)
 
 ## Publications
- [DBLP](https://dblp.org/pid/48/3879.html)
- [Google Scholar](https://scholar.google.com/citations?user=UszzuaAAAAAJ)
+ [DBLP](https://dblp.org/pid/48/3879.html) -
+ [Google Scholar](https://scholar.google.com/citations?user=UszzuaAAAAAJ) -
+ [ORCID](https://orcid.org/0000-0001-6321-5242) -
+ [LinkedIn](https://www.linkedin.com/in/micha%C3%ABl-aupetit-1a70592)
 
 - **IEEE ICDE 2026**
     > M. S. Ahmad, Z. A. Naeem, M. Aupetit, A. Elmagarmid, M. Eltabakh, X. Ma, M. Ouzzani, C. Ruan, H. Al-Sayeh 
      <br> **HCT-QA: A Benchmark for Question Answering on Human-Centric Tables** <br>
-    [arXiv](https://arxiv.org/html/2504.20047v3)
-    [HF](https://huggingface.co/datasets/qcri-ai/HCTQA)
+    [arXiv](https://arxiv.org/html/2504.20047v3) -
+    [HF](https://huggingface.co/datasets/qcri-ai/HCTQA) -
     [GitHub](https://github.com/qcri/HCTQA-Benchmark)
     
     <img style="width:auto; height:100px" alt="HCTQA_New_Example_Diagram_v6" src="https://github.com/user-attachments/assets/e9db3625-5d5e-49c6-b058-c974e0433942" />
@@ -26,7 +28,7 @@ Qatar Center for Artificial Intelligence (https://qcai.qcri.org/)
 - **IEEE TVCG 2026** (to appear)
     > R. Cutura, S. Sadler, Q. Quang Ngo, M. Aupetit, and M. Sedlmair 
      <br> **ISilDR: Isometric-Seriation-Based Dimensionality Reduction for Visual Cluster Analysis** <br>
-     [PacificVis - TVCG track](https://www.pvismirror.org/full-program.html )
+     [PacificVis TVCG track](https://www.pvismirror.org/full-program.html )
     
     <img style="width:auto; height:100px" alt="isildr_teaser" src="https://github.com/user-attachments/assets/8a0a795c-a55e-43af-89da-44d8da0420f1" />
     <img style="width:auto; height:100px" alt="isildr_ISILDR_OLP_inference" src="https://github.com/user-attachments/assets/41ed5f00-c5af-441c-992a-3aee6cd0b898" />
@@ -36,9 +38,9 @@ Qatar Center for Artificial Intelligence (https://qcai.qcri.org/)
 - **IEEE TPAMI 2025**
     > H. Jeon, M. Aupetit, D. Shin, A. Cho, S. Park, J. Seo 
      <br> **Measuring the Validity of Clustering Validation Datasets** <br>
-     [IEEE TPAMI](https://doi.org/10.1109/TPAMI.2025.3548011)
-     [Ranked Datasets](https://hyeonword.com/clm-datasets/)
-     [(Python) Dataset reader](https://github.com/hj-n/labeled-datasets)
+     [IEEE TPAMI](https://doi.org/10.1109/TPAMI.2025.3548011) -
+     [Ranked Datasets](https://hyeonword.com/clm-datasets/) -
+     [(Python) Dataset reader](https://github.com/hj-n/labeled-datasets) -
      [(Python) Adjusted Internal Validation Measures](https://github.com/hj-n/clm)
     <img style="width:auto; height:100px" alt="TPAMI2025_CLM_EVM" src="https://github.com/user-attachments/assets/1df04369-5537-4838-9981-4e23186ac10b" />
     <img style="width:auto; height:100px" alt="TPAMI2025_MainResults1" src="https://github.com/user-attachments/assets/fc46dfea-a6ff-4ca8-acff-ced23e41aaa8" />
