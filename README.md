@@ -1,16 +1,19 @@
+
+# Dr. Michaël Aupetit  - *AI for Humans*
 <img width="125" height="150" alt="photoid_professional_500x600" src="https://github.com/user-attachments/assets/05d166b5-dcdd-4dbe-aded-59e521ef7770" />
 
-# Dr. Michaël Aupetit
 
-Senior Scientist - AI for Humans
+*Senior Scientist* at [Qatar Center for Artificial Intelligence](https://qcai.qcri.org/)
 
-Qatar Center for Artificial Intelligence (https://qcai.qcri.org/)
-
+ [QCRI](https://www.hbku.edu.qa/en/qcri) -
+ [HBKU](https://elmi.hbku.edu.qa/en/persons/michael-jean-marie-aupetit) -
+ [LinkedIn](https://www.linkedin.com/in/micha%C3%ABl-aupetit-1a70592)
+ 
 ## Publications
  [DBLP](https://dblp.org/pid/48/3879.html) -
  [Google Scholar](https://scholar.google.com/citations?user=UszzuaAAAAAJ) -
  [ORCID](https://orcid.org/0000-0001-6321-5242) -
- [LinkedIn](https://www.linkedin.com/in/micha%C3%ABl-aupetit-1a70592)
+ [ResearchGate](https://www.researchgate.net/profile/Michael_Aupetit)
 
 - **IEEE ICDE 2026**
     > M. S. Ahmad, Z. A. Naeem, M. Aupetit, A. Elmagarmid, M. Eltabakh, X. Ma, M. Ouzzani, C. Ruan, H. Al-Sayeh 
@@ -46,8 +49,10 @@ Qatar Center for Artificial Intelligence (https://qcai.qcri.org/)
     <img style="width:auto; height:100px" alt="TPAMI2025_MainResults1" src="https://github.com/user-attachments/assets/fc46dfea-a6ff-4ca8-acff-ced23e41aaa8" />
     <img style="width:auto; height:100px" alt="TPAMI2025_MainResults2" src="https://github.com/user-attachments/assets/919aae33-4d45-4490-b456-4f3e2229b878" />
     
-
+- **...**
 
   
 
 ## Projects
+
+TBA soon
