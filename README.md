@@ -22,10 +22,9 @@
     [HF](https://huggingface.co/datasets/qcri-ai/HCTQA) -
     [GitHub](https://github.com/qcri/HCTQA-Benchmark)
     
-    <img style="width:auto; height:100px" alt="HCTQA_New_Example_Diagram_v6" src="https://github.com/user-attachments/assets/e9db3625-5d5e-49c6-b058-c974e0433942" />
+    <img style="width:auto; height:100px" alt="HCTQA_New_Example_Diagram_v6" src="https://github.com/user-attachments/assets/e9db3625-5d5e-49c6-b058-c974e0433942" onclick="window.open('https://github.com/user-attachments/assets/e9db3625-5d5e-49c6-b058-c974e0433942', 'popup', 'width=auto,height=600px');" style="cursor:pointer;"/>
     <img style="width:auto; height:100px" alt="Real-world_Dataset_v7" src="https://github.com/user-attachments/assets/c7deb881-d540-48e2-871f-742ec9dcb3b4" />
     <img style="width:auto; height:100px" alt="synthetic_data_generator" src="https://github.com/user-attachments/assets/9c500cb6-a68c-4fe7-9e0c-e2cffef3eff3" />
-
 
 
 - **IEEE TVCG 2026** (to appear)
