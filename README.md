@@ -1,5 +1,5 @@
 
-# Dr. Michaël Aupetit  - *AI for Humans*
+# Dr. Michaël Aupetit
 <img width="125" height="150" alt="photoid_professional_500x600" src="https://github.com/user-attachments/assets/05d166b5-dcdd-4dbe-aded-59e521ef7770" />
 
 
