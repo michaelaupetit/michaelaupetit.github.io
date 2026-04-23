@@ -30,7 +30,9 @@
 - **IEEE TVCG 2026** (to appear)
     > R. Cutura, S. Sadler, Q. Quang Ngo, M. Aupetit, and M. Sedlmair 
      <br> **ISilDR: Isometric-Seriation-Based Dimensionality Reduction for Visual Cluster Analysis** <br>
-     [PacificVis TVCG track](https://www.pvismirror.org/full-program.html )
+     [PacificVis TVCG track](https://www.pvismirror.org/full-program.html ) -
+     [Slides](https://github.com/user-attachments/files/27026598/IsilDR.PacificVis.Presentation_unfold.pdf)
+
     
     <img style="width:auto; height:100px" alt="isildr_teaser" src="https://github.com/user-attachments/assets/8a0a795c-a55e-43af-89da-44d8da0420f1" />
     <img style="width:auto; height:100px" alt="isildr_ISILDR_OLP_inference" src="https://github.com/user-attachments/assets/41ed5f00-c5af-441c-992a-3aee6cd0b898" />
