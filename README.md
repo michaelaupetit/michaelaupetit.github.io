@@ -24,8 +24,9 @@
     
     <img style="width:auto; height:100px" alt="HCTQA_New_Example_Diagram_v6" src="https://github.com/user-attachments/assets/e9db3625-5d5e-49c6-b058-c974e0433942" onclick="window.open('https://github.com/user-attachments/assets/e9db3625-5d5e-49c6-b058-c974e0433942', 'popup', 'width=auto,height=600px');" style="cursor:pointer;"/>
     <img style="width:auto; height:100px" alt="Real-world_Dataset_v7" src="https://github.com/user-attachments/assets/c7deb881-d540-48e2-871f-742ec9dcb3b4" />
-    <img style="width:auto; height:100px" alt="synthetic_data_generator" src="https://github.com/user-attachments/assets/9c500cb6-a68c-4fe7-9e0c-e2cffef3eff3" />
-
+    <a href="https://github.com/user-attachments/assets/9c500cb6-a68c-4fe7-9e0c-e2cffef3eff3" data-toggle="lightbox">
+       <img style="width:auto; height:100px" alt="synthetic_data_generator" src="https://github.com/user-attachments/assets/9c500cb6-a68c-4fe7-9e0c-e2cffef3eff3" />
+    </a>
 
 - **IEEE TVCG 2026** (to appear)
     > R. Cutura, S. Sadler, Q. Quang Ngo, M. Aupetit, and M. Sedlmair 
@@ -38,7 +39,17 @@
     <img style="width:auto; height:100px" alt="isildr_ISILDR_OLP_inference" src="https://github.com/user-attachments/assets/41ed5f00-c5af-441c-992a-3aee6cd0b898" />
     <img style="width:auto; height:100px" alt="isildr_OLP_ISILDR_inference" src="https://github.com/user-attachments/assets/9cbf7328-14e9-45ad-ac41-7b8608f5b2dc" />
     
+ - **IEEE TVCG 2026** 
+    > H. Jeon, M. Aupetit, S. Lee, K. Ko, Y. Kim, G. J. Quadri, and J. Seo
+     <br> **Distortion-Aware Brushing for Reliable Cluster Analysis in Multidimensional Projections** <br>
+     [IEEE TVCG](https://doi.org/10.1109/TVCG.2025.3615314) -
+     [Demo](https://distortion-aware-brushing.github.io/site/)
+
     
+    <img style="width:auto; height:100px" alt="DistortionAwareBrushing_TVCG2026_Figure1" src="https://github.com/user-attachments/assets/31daec41-38c7-4dd4-84c3-9ee134d1e7b7" />
+    <img style="width:auto; height:100px" alt="DistortionAwareBrushing_TVCG2026_Figure9" src="https://github.com/user-attachments/assets/f1b5525c-c71f-44c6-a2b9-c7836533d487" />
+
+
 - **IEEE TPAMI 2025**
     > H. Jeon, M. Aupetit, D. Shin, A. Cho, S. Park, J. Seo 
      <br> **Measuring the Validity of Clustering Validation Datasets** <br>
