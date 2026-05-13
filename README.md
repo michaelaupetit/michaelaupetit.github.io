@@ -17,47 +17,64 @@
 
 - **IEEE ICDE 2026**
     > M. S. Ahmad, Z. A. Naeem, M. Aupetit, A. Elmagarmid, M. Eltabakh, X. Ma, M. Ouzzani, C. Ruan, H. Al-Sayeh 
-     <br> **HCT-QA: A Benchmark for Question Answering on Human-Centric Tables** <br>
-    [arXiv](https://arxiv.org/html/2504.20047v3) -
-    [HF](https://huggingface.co/datasets/qcri-ai/HCTQA) -
-    [GitHub](https://github.com/qcri/HCTQA-Benchmark)
+      <br> **HCT-QA: A Benchmark for Question Answering on Human-Centric Tables** <br>
+      [arXiv](https://arxiv.org/html/2504.20047v3) -
+      [HF](https://huggingface.co/datasets/qcri-ai/HCTQA) -
+      [GitHub](https://github.com/qcri/HCTQA-Benchmark)
 
-<details>
-  <summary><img src="https://github.com/user-attachments/assets/e9db3625-5d5e-49c6-b058-c974e0433942" style="width:auto; height:100px" alt="HCTQA data collection">
-   <img src="https://github.com/user-attachments/assets/c7deb881-d540-48e2-871f-742ec9dcb3b4" style="width:auto; height:100px" alt="HCTQA data collection">
-   <img src="https://github.com/user-attachments/assets/9c500cb6-a68c-4fe7-9e0c-e2cffef3eff3" style="width:auto; height:100px" alt="HCTQA data collection"><b> ...</b></summary>
+      <details>
+      <summary><img src="https://github.com/user-attachments/assets/e9db3625-5d5e-49c6-b058-c974e0433942" style="width:auto; height:100px" alt="HCTQA data collection">
+      <img src="https://github.com/user-attachments/assets/c7deb881-d540-48e2-871f-742ec9dcb3b4" style="width:auto; height:100px" alt="HCTQA data collection">
+      <img src="https://github.com/user-attachments/assets/9c500cb6-a68c-4fe7-9e0c-e2cffef3eff3" style="width:auto; height:100px" alt="HCTQA data collection"></summary>
   
-  ##### HCT complex layouts
-  <img src="https://github.com/user-attachments/assets/e9db3625-5d5e-49c6-b058-c974e0433942" width="100%" alt="HCT complex layouts">
+      ##### HCT complex layouts
+      <img src="https://github.com/user-attachments/assets/e9db3625-5d5e-49c6-b058-c974e0433942" width="100%" alt="HCT complex layouts">
   
-  ##### HCT-QA data collection and validation
-  <img src="https://github.com/user-attachments/assets/c7deb881-d540-48e2-871f-742ec9dcb3b4" width="100%" alt="HCT-QA data collection and validation">
+      ##### HCT-QA data collection and validation
+      <img src="https://github.com/user-attachments/assets/c7deb881-d540-48e2-871f-742ec9dcb3b4" width="100%" alt="HCT-QA data collection and validation">
   
-  ##### HCT-QA synthetic data generator
-  <img src="https://github.com/user-attachments/assets/9c500cb6-a68c-4fe7-9e0c-e2cffef3eff3" width="100%" alt="HCT-QA synthetic data generator">
-</details>
+      ##### HCT-QA synthetic data generator
+      <img src="https://github.com/user-attachments/assets/9c500cb6-a68c-4fe7-9e0c-e2cffef3eff3" width="100%" alt="HCT-QA synthetic data generator">
+      </details>
 
 - **IEEE TVCG 2026** (to appear)
     > R. Cutura, S. Sadler, Q. Quang Ngo, M. Aupetit, and M. Sedlmair 
-     <br> **ISilDR: Isometric-Seriation-Based Dimensionality Reduction for Visual Cluster Analysis** <br>
-     [PacificVis TVCG track](https://www.pvismirror.org/full-program.html ) -
-     [Slides](https://github.com/user-attachments/files/27026598/IsilDR.PacificVis.Presentation_unfold.pdf)
+      <br> **ISilDR: Isometric-Seriation-Based Dimensionality Reduction for Visual Cluster Analysis** <br>
+      [PacificVis TVCG track](https://www.pvismirror.org/full-program.html ) -
+      [Slides](https://github.com/user-attachments/files/27026598/IsilDR.PacificVis.Presentation_unfold.pdf)
 
-    
-    <img style="width:auto; height:100px" alt="isildr_teaser" src="https://github.com/user-attachments/assets/8a0a795c-a55e-43af-89da-44d8da0420f1" />
-    <img style="width:auto; height:100px" alt="isildr_ISILDR_OLP_inference" src="https://github.com/user-attachments/assets/41ed5f00-c5af-441c-992a-3aee6cd0b898" />
-    <img style="width:auto; height:100px" alt="isildr_OLP_ISILDR_inference" src="https://github.com/user-attachments/assets/9cbf7328-14e9-45ad-ac41-7b8608f5b2dc" />
-    
+<details>
+<summary><img src="https://github.com/user-attachments/assets/8a0a795c-a55e-43af-89da-44d8da0420f1" style="width:auto; height:100px" alt="ISilDR principle">
+      <img src="https://github.com/user-attachments/assets/41ed5f00-c5af-441c-992a-3aee6cd0b898" style="width:auto; height:100px" alt="ISilDR -> OLP Inference">
+      <img src="https://github.com/user-attachments/assets/9cbf7328-14e9-45ad-ac41-7b8608f5b2dc" style="width:auto; height:100px" alt="OLP -> ISilDR Inference"></summary>
+  
+      ##### ISilDR principle
+      <img src="https://github.com/user-attachments/assets/8a0a795c-a55e-43af-89da-44d8da0420f1" width="100%" alt="ISilDR principle">
+  
+      ##### ISilDR -> OLP Inference
+      <img src="https://github.com/user-attachments/assets/41ed5f00-c5af-441c-992a-3aee6cd0b898" width="100%" alt="ISilDR -> OLP Inference">
+  
+      ##### OLP -> ISilDR Inference
+      <img src="https://github.com/user-attachments/assets/9cbf7328-14e9-45ad-ac41-7b8608f5b2dc" width="100%" alt="OLP -> ISilDR Inference">
+</details>
+
+
  - **IEEE TVCG 2026** 
     > H. Jeon, M. Aupetit, S. Lee, K. Ko, Y. Kim, G. J. Quadri, and J. Seo
-     <br> **Distortion-Aware Brushing for Reliable Cluster Analysis in Multidimensional Projections** <br>
-     [IEEE TVCG](https://doi.org/10.1109/TVCG.2025.3615314) -
-     [Demo](https://distortion-aware-brushing.github.io/site/)
+      <br> **Distortion-Aware Brushing for Reliable Cluster Analysis in Multidimensional Projections** <br>
+      [IEEE TVCG](https://doi.org/10.1109/TVCG.2025.3615314) -
+      [Demo](https://distortion-aware-brushing.github.io/site/)
 
-    
-    <img style="width:auto; height:100px" alt="DistortionAwareBrushing_TVCG2026_Figure1" src="https://github.com/user-attachments/assets/31daec41-38c7-4dd4-84c3-9ee134d1e7b7" />
-    <img style="width:auto; height:100px" alt="DistortionAwareBrushing_TVCG2026_Figure9" src="https://github.com/user-attachments/assets/f1b5525c-c71f-44c6-a2b9-c7836533d487" />
-
+      <details>
+      <summary><img src="https://github.com/user-attachments/assets/31daec41-38c7-4dd4-84c3-9ee134d1e7b7" style="width:auto; height:100px" alt="Interactive Lasso Techniques vs Distortion Aware Brushing">
+      <img src="https://github.com/user-attachments/assets/f1b5525c-c71f-44c6-a2b9-c7836533d487" style="width:auto; height:100px" alt="Distortion Aware Brushing in action"></summary>
+  
+      ##### Interactive Lasso Techniques vs Distortion Aware Brushing
+      <img src="https://github.com/user-attachments/assets/31daec41-38c7-4dd4-84c3-9ee134d1e7b7" width="100%" alt="Interactive Lasso Techniques vs Distortion Aware Brushing">
+  
+      ##### Distortion Aware Brushing in action
+      <img src="https://github.com/user-attachments/assets/f1b5525c-c71f-44c6-a2b9-c7836533d487" width="100%" alt="Distortion Aware Brushing in action">
+      </details>
 
 - **IEEE TPAMI 2025**
     > H. Jeon, M. Aupetit, D. Shin, A. Cho, S. Park, J. Seo 
