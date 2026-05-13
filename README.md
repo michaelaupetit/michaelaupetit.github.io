@@ -15,6 +15,8 @@
  [ORCID](https://orcid.org/0000-0001-6321-5242) -
  [ResearchGate](https://www.researchgate.net/profile/Michael_Aupetit)
 
+---
+
 - **IEEE ICDE 2026**
     > M. S. Ahmad, Z. A. Naeem, M. Aupetit, A. Elmagarmid, M. Eltabakh, X. Ma, M. Ouzzani, C. Ruan, H. Al-Sayeh 
       <br> **HCT-QA: A Benchmark for Question Answering on Human-Centric Tables** <br>
@@ -22,20 +24,22 @@
       [HF](https://huggingface.co/datasets/qcri-ai/HCTQA) -
       [GitHub](https://github.com/qcri/HCTQA-Benchmark)
 
-      <details>
-      <summary><img src="https://github.com/user-attachments/assets/e9db3625-5d5e-49c6-b058-c974e0433942" style="width:auto; height:100px" alt="HCTQA data collection">
-      <img src="https://github.com/user-attachments/assets/c7deb881-d540-48e2-871f-742ec9dcb3b4" style="width:auto; height:100px" alt="HCTQA data collection">
-      <img src="https://github.com/user-attachments/assets/9c500cb6-a68c-4fe7-9e0c-e2cffef3eff3" style="width:auto; height:100px" alt="HCTQA data collection"></summary>
-  
-      ##### HCT complex layouts
-      <img src="https://github.com/user-attachments/assets/e9db3625-5d5e-49c6-b058-c974e0433942" width="100%" alt="HCT complex layouts">
-  
-      ##### HCT-QA data collection and validation
-      <img src="https://github.com/user-attachments/assets/c7deb881-d540-48e2-871f-742ec9dcb3b4" width="100%" alt="HCT-QA data collection and validation">
-  
-      ##### HCT-QA synthetic data generator
-      <img src="https://github.com/user-attachments/assets/9c500cb6-a68c-4fe7-9e0c-e2cffef3eff3" width="100%" alt="HCT-QA synthetic data generator">
-      </details>
+<details>
+<summary><img src="https://github.com/user-attachments/assets/e9db3625-5d5e-49c6-b058-c974e0433942" style="width:auto; height:100px" alt="HCTQA data collection">
+<img src="https://github.com/user-attachments/assets/c7deb881-d540-48e2-871f-742ec9dcb3b4" style="width:auto; height:100px" alt="HCTQA data collection">
+<img src="https://github.com/user-attachments/assets/9c500cb6-a68c-4fe7-9e0c-e2cffef3eff3" style="width:auto; height:100px" alt="HCTQA data collection"></summary>
+
+### HCT complex layouts
+<img src="https://github.com/user-attachments/assets/e9db3625-5d5e-49c6-b058-c974e0433942" width="100%" alt="HCT complex layouts">
+
+### HCT-QA data collection and validation
+<img src="https://github.com/user-attachments/assets/c7deb881-d540-48e2-871f-742ec9dcb3b4" width="100%" alt="HCT-QA data collection and validation">
+
+### HCT-QA synthetic data generator
+<img src="https://github.com/user-attachments/assets/9c500cb6-a68c-4fe7-9e0c-e2cffef3eff3" width="100%" alt="HCT-QA synthetic data generator">
+</details>
+
+---
 
 - **IEEE TVCG 2026** (to appear)
     > R. Cutura, S. Sadler, Q. Quang Ngo, M. Aupetit, and M. Sedlmair 
@@ -45,19 +49,20 @@
 
 <details>
 <summary><img src="https://github.com/user-attachments/assets/8a0a795c-a55e-43af-89da-44d8da0420f1" style="width:auto; height:100px" alt="ISilDR principle">
-      <img src="https://github.com/user-attachments/assets/41ed5f00-c5af-441c-992a-3aee6cd0b898" style="width:auto; height:100px" alt="ISilDR -> OLP Inference">
-      <img src="https://github.com/user-attachments/assets/9cbf7328-14e9-45ad-ac41-7b8608f5b2dc" style="width:auto; height:100px" alt="OLP -> ISilDR Inference"></summary>
-  
-      ##### ISilDR principle
-      <img src="https://github.com/user-attachments/assets/8a0a795c-a55e-43af-89da-44d8da0420f1" width="100%" alt="ISilDR principle">
-  
-      ##### ISilDR -> OLP Inference
-      <img src="https://github.com/user-attachments/assets/41ed5f00-c5af-441c-992a-3aee6cd0b898" width="100%" alt="ISilDR -> OLP Inference">
-  
-      ##### OLP -> ISilDR Inference
-      <img src="https://github.com/user-attachments/assets/9cbf7328-14e9-45ad-ac41-7b8608f5b2dc" width="100%" alt="OLP -> ISilDR Inference">
+<img src="https://github.com/user-attachments/assets/41ed5f00-c5af-441c-992a-3aee6cd0b898" style="width:auto; height:100px" alt="ISilDR -> OLP Inference">
+<img src="https://github.com/user-attachments/assets/9cbf7328-14e9-45ad-ac41-7b8608f5b2dc" style="width:auto; height:100px" alt="OLP -> ISilDR Inference"></summary>
+
+### ISilDR principle
+<img src="https://github.com/user-attachments/assets/8a0a795c-a55e-43af-89da-44d8da0420f1" width="100%" alt="ISilDR principle">
+
+### ISilDR -> OLP Inference
+<img src="https://github.com/user-attachments/assets/41ed5f00-c5af-441c-992a-3aee6cd0b898" width="100%" alt="ISilDR -> OLP Inference">
+
+### OLP -> ISilDR Inference
+<img src="https://github.com/user-attachments/assets/9cbf7328-14e9-45ad-ac41-7b8608f5b2dc" width="100%" alt="OLP -> ISilDR Inference">
 </details>
 
+---
 
  - **IEEE TVCG 2026** 
     > H. Jeon, M. Aupetit, S. Lee, K. Ko, Y. Kim, G. J. Quadri, and J. Seo
@@ -65,16 +70,18 @@
       [IEEE TVCG](https://doi.org/10.1109/TVCG.2025.3615314) -
       [Demo](https://distortion-aware-brushing.github.io/site/)
 
-      <details>
-      <summary><img src="https://github.com/user-attachments/assets/31daec41-38c7-4dd4-84c3-9ee134d1e7b7" style="width:auto; height:100px" alt="Interactive Lasso Techniques vs Distortion Aware Brushing">
-      <img src="https://github.com/user-attachments/assets/f1b5525c-c71f-44c6-a2b9-c7836533d487" style="width:auto; height:100px" alt="Distortion Aware Brushing in action"></summary>
-  
-      ##### Interactive Lasso Techniques vs Distortion Aware Brushing
-      <img src="https://github.com/user-attachments/assets/31daec41-38c7-4dd4-84c3-9ee134d1e7b7" width="100%" alt="Interactive Lasso Techniques vs Distortion Aware Brushing">
-  
-      ##### Distortion Aware Brushing in action
-      <img src="https://github.com/user-attachments/assets/f1b5525c-c71f-44c6-a2b9-c7836533d487" width="100%" alt="Distortion Aware Brushing in action">
-      </details>
+<details>
+<summary><img src="https://github.com/user-attachments/assets/31daec41-38c7-4dd4-84c3-9ee134d1e7b7" style="width:auto; height:100px" alt="Interactive Lasso Techniques vs Distortion Aware Brushing">
+<img src="https://github.com/user-attachments/assets/f1b5525c-c71f-44c6-a2b9-c7836533d487" style="width:auto; height:100px" alt="Distortion Aware Brushing in action"></summary>
+
+### Interactive Lasso Techniques vs Distortion Aware Brushing
+<img src="https://github.com/user-attachments/assets/31daec41-38c7-4dd4-84c3-9ee134d1e7b7" width="100%" alt="Interactive Lasso Techniques vs Distortion Aware Brushing">
+
+### Distortion Aware Brushing in action
+<img src="https://github.com/user-attachments/assets/f1b5525c-c71f-44c6-a2b9-c7836533d487" width="100%" alt="Distortion Aware Brushing in action">
+</details>
+
+---
 
 - **IEEE TPAMI 2025**
     > H. Jeon, M. Aupetit, D. Shin, A. Cho, S. Park, J. Seo 
@@ -83,10 +90,24 @@
      [Ranked Datasets](https://hyeonword.com/clm-datasets/) -
      [(Python) Dataset reader](https://github.com/hj-n/labeled-datasets) -
      [(Python) Adjusted Internal Validation Measures](https://github.com/hj-n/clm)
-    <img style="width:auto; height:100px" alt="TPAMI2025_CLM_EVM" src="https://github.com/user-attachments/assets/1df04369-5537-4838-9981-4e23186ac10b" />
-    <img style="width:auto; height:100px" alt="TPAMI2025_MainResults1" src="https://github.com/user-attachments/assets/fc46dfea-a6ff-4ca8-acff-ced23e41aaa8" />
-    <img style="width:auto; height:100px" alt="TPAMI2025_MainResults2" src="https://github.com/user-attachments/assets/919aae33-4d45-4490-b456-4f3e2229b878" />
-    
+
+<details>
+<summary><img src="https://github.com/user-attachments/assets/1df04369-5537-4838-9981-4e23186ac10b" style="width:auto; height:100px" alt="Class Label Matching and External Validation Measures">
+<img src="https://github.com/user-attachments/assets/fc46dfea-a6ff-4ca8-acff-ced23e41aaa8" style="width:auto; height:100px" alt="Consider only the CLM-best data has an effect on ranking stability">
+<img src="https://github.com/user-attachments/assets/919aae33-4d45-4490-b456-4f3e2229b878" style="width:auto; height:100px" alt="Speed and correlation with ground truth"></summary>
+
+### Class Label Matching and External Validation Measures
+<img src="https://github.com/user-attachments/assets/1df04369-5537-4838-9981-4e23186ac10b" width="100%" alt="Class Label Matching and External Validation Measures">
+
+### Consider only the CLM-best data has an effect on ranking stability
+<img src="https://github.com/user-attachments/assets/fc46dfea-a6ff-4ca8-acff-ced23e41aaa8" width="100%" alt="Consider only the CLM-best data has an effect on ranking stability">
+
+### Speed and correlation with ground truth
+<img src="https://github.com/user-attachments/assets/919aae33-4d45-4490-b456-4f3e2229b878" width="100%" alt="Speed and correlation with ground truth">
+</details>
+
+---
+
 - **...**
 
   
