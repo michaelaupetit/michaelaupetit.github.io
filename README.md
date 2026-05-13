@@ -21,15 +21,21 @@
     [arXiv](https://arxiv.org/html/2504.20047v3) -
     [HF](https://huggingface.co/datasets/qcri-ai/HCTQA) -
     [GitHub](https://github.com/qcri/HCTQA-Benchmark)
-<div class="row">
-    <a href="https://github.com/user-attachments/assets/9c500cb6-a68c-4fe7-9e0c-e2cffef3eff3"  data-size="lg" data-toggle="lightbox" data-gallery="ICDE2026_gallery">
-     <img style="width:auto; height:100px" alt="HCTQA_New_Example_Diagram_v6" src="https://github.com/user-attachments/assets/e9db3625-5d5e-49c6-b058-c974e0433942" class="img-fluid"/>    </a>
-    <a href="https://github.com/user-attachments/assets/c7deb881-d540-48e2-871f-742ec9dcb3b4" data-toggle="lightbox"  data-size="lg" data-gallery="ICDE2026_gallery">
-     <img style="width:auto; height:100px" alt="Real-world_Dataset_v7" src="https://github.com/user-attachments/assets/c7deb881-d540-48e2-871f-742ec9dcb3b4" class="img-fluid"/>    </a>
-    <a href="https://github.com/user-attachments/assets/9c500cb6-a68c-4fe7-9e0c-e2cffef3eff3"  data-size="lg" data-toggle="lightbox" data-gallery="ICDE2026_gallery">
-       <img style="width:auto; height:100px" alt="synthetic_data_generator" src="https://github.com/user-attachments/assets/9c500cb6-a68c-4fe7-9e0c-e2cffef3eff3" class="img-fluid"/>
-    </a>
-</div>
+
+<details>
+  <summary><img src="https://github.com/user-attachments/assets/e9db3625-5d5e-49c6-b058-c974e0433942" style="width:auto; height:100px" alt="HCTQA data collection">
+   <img src="https://github.com/user-attachments/assets/c7deb881-d540-48e2-871f-742ec9dcb3b4" style="width:auto; height:100px" alt="HCTQA data collection">
+   <img src="https://github.com/user-attachments/assets/9c500cb6-a68c-4fe7-9e0c-e2cffef3eff3" style="width:auto; height:100px" alt="HCTQA data collection"><b> ...</b></summary>
+  
+  ##### HCT complex layouts
+  <img src="https://github.com/user-attachments/assets/e9db3625-5d5e-49c6-b058-c974e0433942" width="100%" alt="HCT complex layouts">
+  
+  ##### HCT-QA data collection and validation
+  <img src="https://github.com/user-attachments/assets/c7deb881-d540-48e2-871f-742ec9dcb3b4" width="100%" alt="HCT-QA data collection and validation">
+  
+  ##### HCT-QA synthetic data generator
+  <img src="https://github.com/user-attachments/assets/9c500cb6-a68c-4fe7-9e0c-e2cffef3eff3" width="100%" alt="HCT-QA synthetic data generator">
+</details>
 
 - **IEEE TVCG 2026** (to appear)
     > R. Cutura, S. Sadler, Q. Quang Ngo, M. Aupetit, and M. Sedlmair 
