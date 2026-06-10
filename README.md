@@ -44,7 +44,7 @@ HCT-QA benchmark is enriched with thousands of synthetic HCTs, QA, and metadata 
 - **IEEE TVCG 2026** (to appear)
     > R. Cutura, S. Sadler, Q. Quang Ngo, M. Aupetit, and M. Sedlmair 
       <br> **ISilDR: Isometric-Seriation-Based Dimensionality Reduction for Visual Cluster Analysis** <br>
-      [PacificVis TVCG track](https://www.pvismirror.org/full-program.html ) -
+      [PacificVis IEEE TVCG track](https://doi.ieeecomputersociety.org/10.1109/TVCG.2026.3694456) -
       [Slides](https://github.com/user-attachments/files/27026598/IsilDR.PacificVis.Presentation_unfold.pdf)
 
 <details>
