@@ -1,3 +1,4 @@
+markdown: kramdown
 theme: jekyll-theme-minimal
 title: "HuMA <br> <b>Hu</b>man <br> <b>M</b>achine <br> <b>A</b>lignment"
 description: Bookmark this to keep an eye on my project updates!
