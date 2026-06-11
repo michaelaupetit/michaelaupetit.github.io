@@ -3,26 +3,26 @@
 <img width="125" height="150" alt="photoid_professional_500x600" src="https://github.com/user-attachments/assets/05d166b5-dcdd-4dbe-aded-59e521ef7770" />
 
 
-*Senior Scientist* at [Qatar Center for Artificial Intelligence](https://qcai.qcri.org/)
+*Senior Scientist* at [Qatar Center for Artificial Intelligence](https://qcai.qcri.org/){:target="_blank"}
 
- [QCRI](https://www.hbku.edu.qa/en/qcri) -
- [HBKU](https://elmi.hbku.edu.qa/en/persons/michael-jean-marie-aupetit) -
- [LinkedIn](https://www.linkedin.com/in/micha%C3%ABl-aupetit-1a70592)
+ [QCRI](https://www.hbku.edu.qa/en/qcri){:target="_blank"} -
+ [HBKU](https://elmi.hbku.edu.qa/en/persons/michael-jean-marie-aupetit){:target="_blank"} -
+ [LinkedIn](https://www.linkedin.com/in/micha%C3%ABl-aupetit-1a70592){:target="_blank"}
  
 ## Publications
- [DBLP](https://dblp.org/pid/48/3879.html) -
- [Google Scholar](https://scholar.google.com/citations?user=UszzuaAAAAAJ) -
- [ORCID](https://orcid.org/0000-0001-6321-5242) -
- [ResearchGate](https://www.researchgate.net/profile/Michael_Aupetit)
+ [DBLP](https://dblp.org/pid/48/3879.html){:target="_blank"} -
+ [Google Scholar](https://scholar.google.com/citations?user=UszzuaAAAAAJ){:target="_blank"} -
+ [ORCID](https://orcid.org/0000-0001-6321-5242){:target="_blank"} -
+ [ResearchGate](https://www.researchgate.net/profile/Michael_Aupetit){:target="_blank"}
 
 ---
 
 - **IEEE ICDE 2026**
     > M. S. Ahmad, Z. A. Naeem, M. Aupetit, A. Elmagarmid, M. Eltabakh, X. Ma, M. Ouzzani, C. Ruan, H. Al-Sayeh 
       <br> **HCT-QA: A Benchmark for Question Answering on Human-Centric Tables** <br>
-      [arXiv](https://arxiv.org/html/2504.20047v3) -
-      [HF](https://huggingface.co/datasets/qcri-ai/HCTQA) -
-      [GitHub](https://github.com/qcri/HCTQA-Benchmark)
+      [arXiv](https://arxiv.org/html/2504.20047v3){:target="_blank"} -
+      [HF](https://huggingface.co/datasets/qcri-ai/HCTQA){:target="_blank"} -
+      [GitHub](https://github.com/qcri/HCTQA-Benchmark){:target="_blank"}
 
 <details>
 <summary><img src="https://github.com/user-attachments/assets/e9db3625-5d5e-49c6-b058-c974e0433942" style="width:auto; height:50px" alt="HCTQA data collection">
@@ -44,8 +44,8 @@ HCT-QA benchmark is enriched with thousands of synthetic HCTs, QA, and metadata 
 - **IEEE TVCG 2026**
     > R. Cutura, S. Sadler, Q. Quang Ngo, M. Aupetit, and M. Sedlmair 
       <br> **ISilDR: Isometric-Seriation-Based Dimensionality Reduction for Visual Cluster Analysis** <br>
-      [PacificVis IEEE TVCG track](https://doi.ieeecomputersociety.org/10.1109/TVCG.2026.3694456) -
-      [Slides](https://github.com/user-attachments/files/27026598/IsilDR.PacificVis.Presentation_unfold.pdf)
+      [PacificVis IEEE TVCG track](https://doi.ieeecomputersociety.org/10.1109/TVCG.2026.3694456){:target="_blank"} -
+      [Slides](https://github.com/user-attachments/files/27026598/IsilDR.PacificVis.Presentation_unfold.pdf){:target="_blank"}
 
 <details>
 <summary><img src="https://github.com/user-attachments/assets/8a0a795c-a55e-43af-89da-44d8da0420f1" style="width:auto; height:50px" alt="ISilDR principle">
@@ -69,8 +69,8 @@ This is the first time such a strong conclusion about an MD data pattern has bee
  - **IEEE TVCG 2026** 
     > H. Jeon, M. Aupetit, S. Lee, K. Ko, Y. Kim, G. J. Quadri, and J. Seo
       <br> **Distortion-Aware Brushing for Reliable Cluster Analysis in Multidimensional Projections** <br>
-      [IEEE TVCG](https://doi.org/10.1109/TVCG.2025.3615314) -
-      [Demo](https://distortion-aware-brushing.github.io/site/)
+      [IEEE TVCG](https://doi.org/10.1109/TVCG.2025.3615314){:target="_blank"} -
+      [Demo](https://distortion-aware-brushing.github.io/site/){:target="_blank"}
 
 <details>
 <summary><img src="https://github.com/user-attachments/assets/31daec41-38c7-4dd4-84c3-9ee134d1e7b7" style="width:auto; height:50px" alt="Interactive Lasso Techniques vs Distortion Aware Brushing">
@@ -88,10 +88,10 @@ Distortion Aware Brushing in action
 - **IEEE TPAMI 2025**
     > H. Jeon, M. Aupetit, D. Shin, A. Cho, S. Park, J. Seo 
      <br> **Measuring the Validity of Clustering Validation Datasets** <br>
-     [IEEE TPAMI](https://doi.org/10.1109/TPAMI.2025.3548011) -
-     [Ranked Datasets](https://hyeonword.com/clm-datasets/) -
-     [(Python) Dataset reader](https://github.com/hj-n/labeled-datasets) -
-     [(Python) Adjusted Internal Validation Measures](https://github.com/hj-n/clm)
+     [IEEE TPAMI](https://doi.org/10.1109/TPAMI.2025.3548011){:target="_blank"} -
+     [Ranked Datasets](https://hyeonword.com/clm-datasets/){:target="_blank"} -
+     [(Python) Dataset reader](https://github.com/hj-n/labeled-datasets){:target="_blank"} -
+     [(Python) Adjusted Internal Validation Measures](https://github.com/hj-n/clm){:target="_blank"}
 
 <details>
 <summary><img src="https://github.com/user-attachments/assets/1df04369-5537-4838-9981-4e23186ac10b" style="width:auto; height:50px" alt="Class Label Matching and External Validation Measures">
