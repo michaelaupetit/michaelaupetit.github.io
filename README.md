@@ -3,7 +3,7 @@
 <img width="125" height="150" alt="photoid_professional_500x600" src="https://github.com/user-attachments/assets/05d166b5-dcdd-4dbe-aded-59e521ef7770" />
 
 
-*Full Professor* at [Ecole pour l'Informatique et les Techniques Avancées](https://www.epita.fr/en/){:target="_blank"}
+*Full Professor* at [EPITA](https://www.epita.fr/en/){:target="_blank"}
 
 
 Formerly *Senior Scientist* at [Qatar Center for Artificial Intelligence](https://qcai.qcri.org/){:target="_blank"}
