@@ -1,9 +1,12 @@
 
-# Dr. Michaël Aupetit
+# Prof. Michaël Aupetit
 <img width="125" height="150" alt="photoid_professional_500x600" src="https://github.com/user-attachments/assets/05d166b5-dcdd-4dbe-aded-59e521ef7770" />
 
 
-*Senior Scientist* at [Qatar Center for Artificial Intelligence](https://qcai.qcri.org/){:target="_blank"}
+*Full Professor* at [Ecole pour l'Informatique et les Techniques Avancées](https://www.epita.fr/en/){:target="_blank"}
+
+
+Formerly *Senior Scientist* at [Qatar Center for Artificial Intelligence](https://qcai.qcri.org/){:target="_blank"}
 
  [QCRI](https://www.hbku.edu.qa/en/qcri){:target="_blank"} -
  [HBKU](https://elmi.hbku.edu.qa/en/persons/michael-jean-marie-aupetit){:target="_blank"} -
