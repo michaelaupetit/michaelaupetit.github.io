@@ -8,8 +8,7 @@
 
 Formerly *Senior Scientist* at [Qatar Center for Artificial Intelligence](https://qcai.qcri.org/){:target="_blank"}
 
- [QCRI](https://www.hbku.edu.qa/en/qcri){:target="_blank"} -
- [HBKU](https://elmi.hbku.edu.qa/en/persons/michael-jean-marie-aupetit){:target="_blank"} -
+ [LRE](https://www.lre.epita.fr/){:target="_blank"} -
  [LinkedIn](https://www.linkedin.com/in/micha%C3%ABl-aupetit-1a70592){:target="_blank"}
  
 ## Publications
